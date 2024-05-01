@@ -5,7 +5,16 @@
   "main": "ejercicio1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "ej1":"ejercicio1.js"
+    "Ej1": "node Ejercicio1.js",
+    "Ej2": "node Ejercicio2.js",
+    "Ej3": "node Ejercicio3.js",
+    "Ej4": "node Ejercicio4.js",
+    "Ej5": "node Ejercicio5.js",
+    "Ej6": "node Ejercicio6.js",
+    "Ej7": "node Ejercicio7.js",
+    "Ej8": "node Ejercicio8.js",
+    "Ej9": "node Ejercicio9.js",
+    "Ej10": "node Ejercicio10.js"
   },
   "author": "",
   "license": "ISC"
